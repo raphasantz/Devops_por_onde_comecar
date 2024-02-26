@@ -10,10 +10,16 @@ Hora de botar pra rodar a nossa playbook e deixar a mágica acontecer! 💫🔄
 ```bash
 ansible-playbook -i inventory.yml site.yml
 ```
-4️⃣ terraform init - Preparando o terreno pro Terraform brilhar! 🌱💡 Inicializa o projeto e já coloca tudo nos trilhos!
-
-5️⃣ terraform plan - Antes de partir pro ataque, vamos dar uma olhadinha no que o Terraform tem na manga! 📝🔍
-
-6️⃣ terraform apply - E é hora do show! 🚀💥 Aplica as mudanças e vê a mágica acontecer! Não esquece do café, que a jornada é longa, parceiro! ☕️😉
-
+🌱💡 Inicializa o projeto e já coloca tudo nos trilhos!
+```bash
+terraform init - Preparando o terreno pro Terraform brilhar!
+```
+Antes de partir pro ataque, vamos dar uma olhadinha no que o Terraform tem na manga! 📝🔍
+```bash
+terraform plan
+```
+E é hora do show! 🚀💥 Aplica as mudanças e vê a mágica acontecer! Não esquece do café, que a jornada é longa, parceiro! ☕️😉
+```bash
+terraform apply
+```
 Tamo junto nessa jornada de automação e DevOps! 🤜🤛 Vamos dominar o mundo da tecnologia, uma linha de código de cada vez! 💪🌎
