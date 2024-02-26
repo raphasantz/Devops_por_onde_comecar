@@ -12,7 +12,7 @@ ansible-playbook -i inventory.yml site.yml
 ```
 🌱💡 Inicializa o projeto e já coloca tudo nos trilhos!
 ```bash
-terraform init - Preparando o terreno pro Terraform brilhar!
+terraform init #Preparando o terreno pro Terraform brilhar!
 ```
 Antes de partir pro ataque, vamos dar uma olhadinha no que o Terraform tem na manga! 📝🔍
 ```bash
